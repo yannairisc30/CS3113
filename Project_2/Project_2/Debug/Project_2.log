@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\yanni\CS3113\Project_2\main.cpp(29,28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\yanni\CS3113\Project_2\main.cpp(30,15): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Project_2.vcxproj -> C:\Users\yanni\CS3113\Project_2\Debug\Project_2.exe
